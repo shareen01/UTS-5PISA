@@ -2,8 +2,6 @@
 
 namespace App;
 
-use App\Http\Requests\Admin\CategoryRequest;
-use CreateProductGalleriesTable;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
 

@@ -3,7 +3,7 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
-use App\Models\Transaction as ModelsTransaction;
+use App\Transaction as ModelsTransaction;
 use Illuminate\Http\Request;
 
 use App\User;
